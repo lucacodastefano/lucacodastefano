@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @lucacodastefano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... JAVA, C.
+- I'm a software developer working at Accenture
+- 👀 I’m interested in ML, Software engineering
+- 🌱 I’m currently learning ... JAVA, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me @CodastefanoLuca on Twitter 
 
 <!---
 lucacodastefano/lucacodastefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
